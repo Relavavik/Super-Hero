@@ -166,3 +166,12 @@ https://cdn.jwplayer.com/manifests/q5vpgOqE.m3u8
 https://cdn.jwplayer.com/manifests/azU6VG1R.m3u8
 #EXTINF:-24 tvg-name="Coco" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="Animation", Coco (2017)
 https://cdn.jwplayer.com/manifests/8YkPZiZo.m3u8
+#EXTINF:-24 tvg-name="Luca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Luca_%282021_film%29.png" group-title="Animation", Luca (2021)
+https://cdn.jwplayer.com/manifests/6VbgMMUo.m3u8
+#EXTINF:-24 tvg-name="Brave" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Brave_Poster.jpg" group-title="Animation", Brave (2012)
+https://cdn.jwplayer.com/manifests/0R0zZt6e.m3u8
+#EXTINF:-24 tvg-name="Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Soul_Poster.jpeg" group-title="Animation", Soul (2021)
+https://cdn.jwplayer.com/manifests/rhzUWmNr.m3u8
+#EXTINF:-24 tvg-name="Frozen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg" group-title="Animation", Frozen (2013)
+https://cdn.jwplayer.com/manifests/DPGEuwUT.m3u8
+
