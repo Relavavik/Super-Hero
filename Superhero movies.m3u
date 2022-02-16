@@ -203,3 +203,5 @@ https://cdn.jwplayer.com/manifests/L8vegNUF.m3u8
 https://cdn.jwplayer.com/manifests/L8vegNUF.m3u8
 #EXTINF:-1 tvg-name=zFtQqxCg"Thor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="Marvel Cinematic Universe", Spider man no way home (2021)
 https://cdn.jwplayer.com/manifests/5R8x8hbH.m3u8
+#EXTINF:-24 tvg-name="The Incredibles 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg" group-title="Animation", Sing 2
+https://cdn.jwplayer.com/manifests/FqXpZfUH.m3u8
