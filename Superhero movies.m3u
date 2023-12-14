@@ -118,8 +118,6 @@ https://cdn.jwplayer.com/manifests/zcz78O2f.m3u8
 https://cdn.jwplayer.com/manifests/CdBPmzal.m3u8
 #EXTINF:-24 tvg-name="The Dark Knight Rises" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg" group-title="The Dark Knight Trilogy", The Dark Knight Rises (2012)
 https://cdn.jwplayer.com/manifests/lmru9fWg.m3u8
-#EXTINF:-24 tvg-name="Spider man into the spider verse" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png" group-title="Animation", Spider-Man: Into the Spider-Verse (2018)
-https://cdn.jwplayer.com/manifests/dzHv3SZR.m3u8
 #EXTINF:-24 tvg-name="Wonder Woman" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg" group-title="DC Extended Universe", Wonder Woman (2017)
 https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
 #EXTINF:-24 tvg-name="Wonder Woman 1984" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Wonder_Woman_1984_poster.png" group-title="DC Extended Universe", Wonder Woman 1984 (2020)
@@ -168,34 +166,12 @@ https://cdn.jwplayer.com/manifests/KSVMUgKy.m3u8
 https://cdn.jwplayer.com/manifests/hRE65ogy.m3u8
 #EXTINF:-2 tvg-name="Batman The Long Halloween Part 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51VQ54QRlLS._SX300_SY300_QL70_FMwebp_.jpg" group-title="Batman The Long Halloween", Batman The Long Halloween Part 2
 https://cdn.jwplayer.com/manifests/ZOMb7vXM.m3u8
-#EXTINF:-24 tvg-name="Up" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg" group-title="Animation", Up (2007)
-https://cdn.jwplayer.com/manifests/xrkji2gG.m3u8
-#EXTINF:-24 tvg-name="Big Hero 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg" group-title="Animation", Big Hero 6 (2014)
-https://cdn.jwplayer.com/manifests/tTVG15J7.m3u8
 #EXTINF:-24 tvg-name="Episode 5" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", What if ?... Episode 5
 https://cdn.jwplayer.com/manifests/hwFFgzwp.m3u8
 #EXTINF:-24 tvg-name="Episode 6" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", What if ?... Episode 6
 https://cdn.jwplayer.com/manifests/q5vpgOqE.m3u8
-#EXTINF:-24 tvg-name="Inside Out" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg" group-title="Animation", Inside Out (2015)
-https://cdn.jwplayer.com/manifests/azU6VG1R.m3u8
-#EXTINF:-24 tvg-name="Coco" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="Animation", Coco (2017)
-https://cdn.jwplayer.com/manifests/8YkPZiZo.m3u8
-#EXTINF:-24 tvg-name="Luca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Luca_%282021_film%29.png" group-title="Animation", Luca (2021)
-https://cdn.jwplayer.com/manifests/6VbgMMUo.m3u8
-#EXTINF:-24 tvg-name="Brave" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Brave_Poster.jpg" group-title="Animation", Brave (2012)
-https://cdn.jwplayer.com/manifests/0R0zZt6e.m3u8
-#EXTINF:-24 tvg-name="Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Soul_Poster.jpeg" group-title="Animation", Soul (2021)
-https://cdn.jwplayer.com/manifests/rhzUWmNr.m3u8
-#EXTINF:-24 tvg-name="Frozen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg" group-title="Animation", Frozen (2013)
-https://cdn.jwplayer.com/manifests/DPGEuwUT.m3u8
 #EXTINF:-24 tvg-name="Episode 7" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", What if ?... Episode 7
 https://cdn.jwplayer.com/manifests/q8wOybXY.m3u8
-#EXTINF:-24 tvg-name="The Incredibles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg" group-title="Animation", The Incredbiles (2004)
-https://cdn.jwplayer.com/manifests/M6i5xLYt.m3u8
-#EXTINF:-24 tvg-name="The Incredibles 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg" group-title="Animation", The Incredbiles 2 (2018)
-https://cdn.jwplayer.com/manifests/7B7g9bnf.m3u8
-#EXTINF:-24 tvg-name="Onward" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Onward_poster.jpg" group-title="Animation", Onward  (2021)
-https://cdn.jwplayer.com/manifests/xP9XwW3y.m3u8
 #EXTINF:-24 tvg-name="Episode 7" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", What if ?... Episode 8
 https://cdn.jwplayer.com/manifests/vDBqHukH.m3u8
 #EXTINF:-24 tvg-name="Venom : Let There be Carnage" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg" group-title="Sony's Spider-man Universe",Venom : Let There be Carnage(2021)
@@ -204,11 +180,8 @@ http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2021/
 https://cdn.jwplayer.com/manifests/rcNOwLuN.m3u8
 #EXTINF:-24 tvg-name="Episode 7" tvg-logo="https://bitly.com/3BedduX" group-title="What if?", What if ?... Episode 9
 https://cdn.jwplayer.com/manifests/TCVzxxli.m3u8
-#EXTINF:-24 tvg-name="Megamind" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Megamind2010Poster.jpg" group-title="Animation", Megamind (2010)
-http://ftp5.circleftp.net/FILE/Animation%20Dubbed%20Movies/2010/Megamind%20%282010%29%201080p%20BluRay%20%5BHindi%2BEnglish%5D%20%5BDual%20Audio%5D%20x265%20MSubs/Megamind%20%282010%29%201080p%20BluRay%20%5BHindi%2BEnglish%5D%20%5BDual%20Audio%5D%20x265%20MSubs.mkv
 #EXTINF:-24 tvg-name="Onward" tvg-logo="https://github.com/Relavavik/Hollywood-Movies/raw/main/hawkeye_lob_crd_03.jpg" group-title="Hawkeye", Hawkeye Episode 1 (2021)
 https://cdn.jwplayer.com/manifests/sS60W5OD.m3u8
-
 #EXTINF:-24 tvg-name="Onward" tvg-logo="https://github.com/Relavavik/Hollywood-Movies/raw/main/hawkeye_lob_crd_03.jpg" group-title="Hawkeye", Hawkeye Episode 3  (2021)
 https://cdn.jwplayer.com/manifests/L8vegNUF.m3u8
 #EXTINF:-24 tvg-name="Onward" tvg-logo="https://github.com/Relavavik/Hollywood-Movies/raw/main/hawkeye_lob_crd_03.jpg" group-title="Hawkeye", Hawkeye Episode 3 (2021)
@@ -229,10 +202,6 @@ http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/
 http://index2.circleftp.net/FILE/English%20Movies/2022/Werewolf%20By%20Night%20%282022%29%201080p%20WEB-DL%20DD%2B5.1%20MSub%20Atmos%20x264/Werewolf%20By%20Night%20%282022%29%201080p%20WEB-DL%20DD%2B5.1%20MSub%20Atmos%20x264.mkv
 #EXTINF:-1 tvg-name="Thor" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjraeg1P9vE2OSkM6_RsBMir-mRT19F9WUfPDUq0rH8_5F7LFT" group-title="Marvel Cinematic Universe", Doctor Strange MoM(2022)
 http://index2.circleftp.net/FILE/English%20Movies/2022/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20BluRay%20H264%20AAC/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20BluRay%20H264%20AAC.mp4
-#EXTINF:-24 tvg-name="Wall E" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg" group-title="Animation", Wall E (2010)
-http://ftp5.circleftp.net/FILE/Animation%20Dubbed%20Movies/2008/WALL%C2%B7E%20%282008%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DD5.1%2BEnglish%20DD5.1%5D%20ESub%20x264/WALL%C2%B7E%20%282008%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DD5.1%2BEnglish%20DD5.1%5D%20ESub%20x264.mkv
-#EXTINF:-24 tvg-name="Toy story" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg" group-title="Animation", Toy Story (1995)
-http://ftp5.circleftp.net/FILE/Animation%20Dubbed%20Movies/2000%20%26%20Before/Toy%20Story%20%281995%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x265%20MSubs/Toy%20Story%20%281995%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x265%20MSubs.mkv
 #EXTINF:-200 tvg-name="Joker" tvg-logo="http://circleftp.net/wp-content/uploads/2023/03/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_-685x1024.jpg" group-title="DC Stand Alone", Batman(1989)
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/%281995%29%20%26%20Before/Batman%20%281989%29%20REMASTERED%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%202.0%2BEnglish%205.1%5D%20ESub%20x264/Batman%20%281989%29%20REMASTERED%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%202.0%2BEnglish%205.1%5D%20ESub%20x264.mkv
 #EXTINF:-24 tvg-name="Inside Out" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg" group-title="Animation", Flashpoint (2013)
@@ -246,10 +215,6 @@ http://index2.circleftp.net/FILE/English%20Movies/2017/Logan%20%282017%29%201080
 http://index2.circleftp.net/FILE/English%20Movies/2023/The%20Flash%20%282023%29%20Eng%2BSpa%201080p%20WEB.DL%20x264/The%20Flash%20%282023%29%20Eng%2BSpa%201080p%20WEB.DL%20x264.mkv
 #EXTINF:-24 tvg-name="Shazam" tvg-logo="http://circleftp.net/wp-content/uploads/2023/01/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_-691x1024.jpg" group-title="DC Extended Universe",Blue Beetle(2023)
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Blue%20Beetle%20%282023%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Blue%20Beetle%20%282023%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
-#EXTINF:-24 tvg-name="Spider man into the spider verse" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png" group-title="Animation", Elemental 
-http://ftp5.circleftp.net/FILE/Animation%20Dubbed%20Movies/2023/Elemental%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BEnglish%2BHindi%5D%20H264/Elemental%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BEnglish%2BHindi%5D%20H264.mkv
-#EXTINF:-24 tvg-name="Spider man into the spider verse" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png" group-title="Animation", Spider-Man: Across the Spider-Verse 
-http://ftp5.circleftp.net/FILE/Animation%20Movies/2023/Spider-Man%20Across%20the%20Spider-Verse%20%282023%29%201080p%20BluRay%20x264/Spider-Man%20Across%20the%20Spider-Verse%20%282023%29%201080p%20BluRay%20x264.mkv
 #EXTINF:-200 tvg-name="Joker" tvg-logo="http://circleftp.net/wp-content/uploads/2023/03/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_-685x1024.jpg" group-title="DC Stand Alone", The Batman(2022)
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2022/The%20Batman%20%282022%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DDP5.1%2BEnglish%20DTS5.1%5D%20ESubs%20x264/The%20Batman%20%282022%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DDP5.1%2BEnglish%20DTS5.1%5D%20ESubs%20x264.mkv
 #EXTINF:-1 tvg-name="Thor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg" group-title="Marvel Cinematic Universe", Eternals  (2021)
